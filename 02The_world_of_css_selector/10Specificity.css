@@ -1,0 +1,14 @@
+/* specificity:- The specificity of a selector is a measure of how specific a selector is. 
+              The specificity of a selector is calculated based on the number of ID selectors, 
+              class selectors, and element selectors in the selector.  */
+
+.post button:hover{
+     background-color: wheat;
+}
+
+button:hover{
+    background-color: blue;
+    font-size: 25px;
+}
+
+/* fromula of specificity:- id>class>element  */

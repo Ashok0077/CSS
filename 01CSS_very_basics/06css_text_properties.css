@@ -1,0 +1,26 @@
+/* css text properties
+text-align
+font-weight
+text-decoration
+line-height
+letter-spacing 
+*/
+
+h1{
+    text-align: center;
+    font-weight: 400;
+    text-decoration: underline solid blue;
+}
+
+p{
+    /* 400 is normal */
+    /* bold , normal ,lighter */
+    font-family:  Arial, sans-serif;
+    font-weight: 300;
+    line-height: 2;
+}
+
+
+/* Relative :- em rem vh vw % 
+   Absolute :- px pt cm in mm
+*/

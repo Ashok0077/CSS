@@ -1,0 +1,43 @@
+/* pseudo classes:- It is used to select the elements based on the state of the element. */
+
+/*
+  list of all pseudo classes:-
+
+1. :first-child
+2. :last-child
+3. :nth-child(n)
+4. :nth-last-child(n)
+5. :nth-of-type(n)
+6. :nth-last-of-type(n)
+7. :only-child
+8. :only-of-type
+9. :first-of-type
+10. :last-of-type
+11. :empty
+12. :checked
+13. :disabled
+14. :enabled
+15. :indeterminate
+16. :in-range
+17. :out-of-range
+18. :hover
+19. :active
+20. :focus 
+*/ 
+
+/* section button:hover{
+  background-color: #f77f00;
+} */
+
+.post button:hover{
+  background-color: blue;
+}
+
+.post button:active{
+  background-color: #f77f00;
+}
+
+/* select even post and giv it color wheat */
+.post:nth-of-type(2n){  
+  background-color: wheat;
+}

@@ -1,0 +1,11 @@
+/* The cascade:- It is the order in which the browser applies the styles to the elements. */
+
+h1{
+    color: red;
+}
+
+h1{
+    color: blue;
+}
+
+/* blue win here */

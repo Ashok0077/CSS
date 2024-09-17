@@ -1,0 +1,10 @@
+/* pseudo-element:- It is used to select the elements based on the state of the element. */
+/* Keyword added to a selector that lets you style a particular part of selected element. */
+
+.post h2::first-letter {
+    font-size: 40px;
+}
+
+.post h2::selection{
+    background-color: blueviolet;
+}

@@ -1,0 +1,9 @@
+INLINE STYLES:-
+You can write your styles directly inline on each element, but this is NOT A GOOD IDEA most of the time.
+
+THE <STYLE> ELEMENT:-
+You can write your styles inside of a <style> element. This is easy, but it makes it impossible to share styles between documents.
+Not recommended either.
+
+EXTERNAL STYLESHEET:-
+Write your styles in a .css file, and them include the using a <link> in the head of your html document.

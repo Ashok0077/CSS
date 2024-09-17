@@ -1,0 +1,10 @@
+Element selector
+Class selector
+ID selector
+Descendent selector
+CSS specificity
+Adjacent selector
+Direct Descendent selector
+attribute selector
+pseudo elements
+pseudo classes

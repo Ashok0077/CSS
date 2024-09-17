@@ -1,0 +1,6 @@
+Conceptual Overview of CSS
+Basic CSS syntax
+Including Styles Correctly
+Color Systems : RGB, Hex, etc
+Common Text Properties
+font-family property

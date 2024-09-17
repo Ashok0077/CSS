@@ -1,0 +1,24 @@
+THE
+PURPLE :::::: CSS -  adjectives
+DINO :::::::: HTML - nouns
+DANCED :::::: JS - verbs
+
+css stands for cascading style sheets
+
+WHAT IS IT?
+CSS is a language for describing how documents are presented visually - how they are arranged and styled
+
+WHAT DOES IT STAND FOR?
+CSS stands for Cascading style sheets.
+
+THERE"S A LOT!
+CSS is very easy to get the hang of. but it can be intimidating because of how many properties we can manipulate.
+
+
+CSS RULES :
+selector{
+    property: value;
+}
+
+
+PROJECT IDEA - BOOK STORE UI -codepen

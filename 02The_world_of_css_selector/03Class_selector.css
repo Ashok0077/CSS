@@ -1,0 +1,36 @@
+body{
+    background-color: wheat;
+}
+
+h1,h2{
+    color: #bc6c25;
+}
+
+button{
+    background-color: #606c38;
+    color: #fefae0;
+}
+
+#signup{
+    background-color: #283618;
+}
+
+span{
+    color: #dda15e;
+}
+
+/* #tag{
+    background-color: #d62828;  It is also working
+} */
+
+
+.tag{
+    background-color: #d62828;  
+}
+
+/* difference between id and class selector
+
+id selector is used to select a single element
+class selector is used to select multiple elements */
+
+

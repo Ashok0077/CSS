@@ -1,0 +1,19 @@
+/* Attribute Selector:- It is used to select the elements based on the attribute. */
+input[type="text"] {
+  background-color: #606c38;
+  color: #fefae0;
+}
+
+/* class id type href these are all attributes */
+
+section[class="post"] {
+  background-color: #f77f00;
+}
+
+section.post {
+  background-color: yellow;
+}
+
+a[href*="google.com"] {
+  color: #f77f00;
+}

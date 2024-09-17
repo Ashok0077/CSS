@@ -1,0 +1,90 @@
+/* Adjacent selector (+):- It is used to select the elements which are directly after the specified element. */
+/* dont similar to descendant selector */
+
+
+/* Direct child selector (>):- It is used to select the elements which are the direct child of the specified element. */
+body{
+    background-color: wheat;
+}
+
+h1,h2{
+    color: #bc6c25;
+}
+
+button{
+    background-color: #606c38;
+    color: #fefae0;
+}
+
+#signup{
+    background-color: #283618;
+}
+
+span{
+    color: #dda15e;
+}
+
+/* #tag{
+    background-color: #d62828;  It is also working
+} */
+
+
+.tag{
+    background-color: #d62828;  
+}body{
+    background-color: wheat;
+}
+
+h1,h2{
+    color: #bc6c25;
+}
+
+button{
+    background-color: #606c38;
+    color: #fefae0;
+}
+
+#signup{
+    background-color: #283618;
+}
+
+span{
+    color: #dda15e;
+}
+
+/* #tag{
+    background-color: #d62828;  It is also working
+} */
+
+
+.tag{
+    background-color: #d62828;  
+    color: #fefae0;
+    padding : 4px;
+}
+
+span a{
+    color: #669bbc;
+}
+
+li a {
+    color :#003049;
+    text-decoration: none;
+}
+
+.post a {
+    color: #03045e;
+    text-decoration: none;
+}
+
+
+
+h2 + button{
+    color: whitesmoke;
+    background-color: #dda15e;
+    border: #606c38 solid 2px;
+    border-radius: 4px;
+}
+
+
+

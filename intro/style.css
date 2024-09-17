@@ -1,0 +1,13 @@
+h1 {
+  color: orange;
+  text-align: center;
+}
+
+p {
+  color: teal;
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration: underline dashed;
+  text-align: center;
+}
+ 

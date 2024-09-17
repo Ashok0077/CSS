@@ -1,0 +1,26 @@
+install two extensions 
+1. one dark theme
+2. material icon
+
+inline css : implemented on html tags.
+
+all html have a style attribute :
+<h1 style="color: teal">Hello World!</h1>
+
+style tag:
+style tag must be placed inside the body tag
+
+<style>
+   p{
+    color: red;
+   }
+</style>
+
+inline style
+internal style
+external style : use link:css 
+                 <link rel="stylesheet" href="style.css">
+                 link tag is not a closed tag
+
+
+text-align : center                                                                                                                                                                                                                                                                                                 
